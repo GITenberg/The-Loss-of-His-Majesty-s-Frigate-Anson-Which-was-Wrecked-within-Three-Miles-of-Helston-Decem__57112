@@ -1,5 +1,8 @@
 _repo: The-Loss-of-His-Majesty-s-Frigate-Anson-Which-was-Wrecked-within-Three-Miles-of-Helston-Decem__57112
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57112-h/images/cover.jpg
 creator:
   author:
     agent_name: Unknown
@@ -7,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49
     wikipedia: http://www.gutenberg.org/browse/authors/a#a216
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57112#The-Loss-of-His-Majesty-s-Frigate-Anson-Which-was-Wrecked-within-Three-Miles-of-Helston-Decem_
 gutenberg_issued: '2018-05-08'
 gutenberg_type: Text
 identifiers:
